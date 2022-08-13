@@ -15,7 +15,4 @@ Linguagens que desejo adquirir conhecimento:
  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
           
 
-<!---
-MatheusAmorimm/MatheusAmorimm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Snake animation](https://github.com/matheusamorimm/matheusamorimm/blob/output/github-contribution-grid-snake.svg)
