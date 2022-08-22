@@ -1,7 +1,7 @@
 ## Hello, World!
 - 👋 Eu sou o Matheus Amorim
 - 👀 Estudante de Sistemas de Informação
-- ✨ Futuro Desenvolvedor Front-End 
+- ✨ Futuro Desenvolvedor 
 
 Linguagens que possuo conhecimento:
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
