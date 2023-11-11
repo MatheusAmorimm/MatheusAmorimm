@@ -20,4 +20,9 @@
     <img align="center" height="40" width="50" alt="typescript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" height="40" width="50" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusAmorimm/MatheusAmorimm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusAmorimm/MatheusAmorimm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusAmorimm/MatheusAmorimm/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
