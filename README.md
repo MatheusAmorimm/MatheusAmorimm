@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hello World! I'm Matheus Amorim!</h1>
+<h1 align="center">< Hello World! I'm Matheus Amorim! /></h1>
 
 ###
 
@@ -14,10 +14,12 @@
 
 ###
 
-<p align="left">I'm Matheus from São Paulo, Brazil.<br><br>-  I’m have 20 years old.<br><br>-  I'm currently studying Technology Analysis and Systems Development.<br><br>- In my free time I like play videogames, play basketball and read about new tecnologies.<br><br>- I'm currently looking for my first opportunity as a Developer!</p>
+<p align="left">I'm Matheus from São Paulo, Brazil.<br><br>-  I have 20 years old.<br><br>-  I'm currently studying Technology Analysis and Systems Development.<br><br>- In my free time I like play videogames, play basketball and read about new tecnologies.<br><br>- I'm currently looking for my first opportunity as a Developer!</p>
 
 ###
 
+<br clear="both">
+<br clear="both">
 <br clear="both">
 
 <h1 align="center">Languages ​​I'm studying</h1>
@@ -25,8 +27,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusAmorimm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusAmorimm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusAmorimm&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusAmorimm&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -47,6 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
@@ -56,11 +60,9 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -73,8 +75,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
@@ -83,6 +83,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<br clear="both">
+<br clear="both">
+
+<h1 align="center">Featured Projects</h1>
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusamorimm&repo=one-piece&bg_color=09131b&border_color=000000&show_icons=true&icon_color=FF6400&title_color=FF6400&text_color=FFF)](https://github.com/matheusamorimm/one-piece)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusamorimm&repo=gitfind&bg_color=09131b&border_color=000000&show_icons=true&icon_color=FF6400&title_color=FF6400&text_color=FFF)](https://github.com/matheusamorimm/gitfind)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusamorimm&repo=devlinks&bg_color=09131b&border_color=000000&show_icons=true&icon_color=FF6400&title_color=FF6400&text_color=FFF)](https://github.com/matheusamorimm/devlinks)
+
 </div>
 
 ###
