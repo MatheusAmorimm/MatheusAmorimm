@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Matheus from São Paulo, Brazil.<br><br>-  I have 20 years old.<br><br>-  I'm currently studying Technology Analysis and Systems Development.<br><br>- In my free time I like play videogames, play basketball and read about new tecnologies.<br><br>- I'm currently looking for my first opportunity as a Developer!</p>
+<p align="left">I'm Matheus from São Paulo, Brazil.<br><br>-  I have 21 years old.<br><br>- I'm currently finishing my degree in Systems Analysis and Development and starting another in Data Science and Artificial Intelligence.<br><br>- In my free time I like play videogames, play basketball and read about new tecnologies.<br><br>- I'm currently looking for my first opportunity as a Data Scientist!</p>
 
 ###
 
@@ -61,9 +61,6 @@
 
 <div align="center">
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -76,13 +73,13 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="40" alt="r logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="sql logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" height="40" alt="matplotlib logo" />
 </div>
 
 ###
