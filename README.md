@@ -91,11 +91,11 @@
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusamorimm&repo=one-piece&bg_color=09131b&border_color=000000&show_icons=true&icon_color=FF6400&title_color=FF6400&text_color=FFF)](https://github.com/MatheusAmorimm/ChatFurioso)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusamorimm&repo=chatfurioso&bg_color=09131b&border_color=000000&show_icons=true&icon_color=FF6400&title_color=FF6400&text_color=FFF)](https://github.com/MatheusAmorimm/ChatFurioso)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusamorimm&repo=gitfind&bg_color=09131b&border_color=000000&show_icons=true&icon_color=FF6400&title_color=FF6400&text_color=FFF)](https://github.com/matheusamorimm/one-piece)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusamorimm&repo=one-piece&bg_color=09131b&border_color=000000&show_icons=true&icon_color=FF6400&title_color=FF6400&text_color=FFF)](https://github.com/matheusamorimm/one-piece)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusamorimm&repo=devlinks&bg_color=09131b&border_color=000000&show_icons=true&icon_color=FF6400&title_color=FF6400&text_color=FFF)](https://github.com/matheusamorimm/gitfind)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusamorimm&repo=gitfind&bg_color=09131b&border_color=000000&show_icons=true&icon_color=FF6400&title_color=FF6400&text_color=FFF)](https://github.com/matheusamorimm/gitfind)
 
 </div>
 
