@@ -25,6 +25,19 @@ I'm Matheus, from São Paulo, Brazil.
 
 <br clear="both" />
 
+<details>
+<summary><b>🧠 Click here to know a little more about me</b></summary>
+<br />
+
+| | |
+|---|---|
+| 💼 **Current role** | I work as an **Infrastructure and IT Projects Analyst** |
+| 🌎 **Exchange** | I did a Spanish exchange program in **Montevideo, Uruguay** |
+| 🐶 **Dog person** | I love dogs, all of them |
+| ⚡ **Fun fact** | I started with web development and fell in love with data along the way |
+
+</details>
+
 ###
 
 <h2 align="center">🚀 Recent Projects</h2>
@@ -107,6 +120,8 @@ I'm Matheus, from São Paulo, Brazil.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
@@ -153,24 +168,6 @@ I'm Matheus, from São Paulo, Brazil.
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusAmorimm&theme=github_dark" alt="most commit language" />
 </div>
 
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusAmorimm&theme=github_dark" alt="stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusAmorimm&theme=github_dark&utcOffset=-3" alt="productive time" />
-</div>
-
-
-<details>
-<summary><b>🧠 Click here to know a little more about me</b></summary>
-<br />
-
-| | |
-|---|---|
-| 🎓 **Education** | Systems Analysis and Development (UNINOVE) · Data Science & AI — 4th semester |
-| 🔭 **Working on** | Machine Learning projects with real datasets (regression, classification, EDA) |
-| 💬 **Ask me about** | Python, Pandas, SQL, data analysis and visualization |
-| ⚡ **Fun fact** | I started with web development and fell in love with data along the way |
-
-</details>
 
 ###
 
