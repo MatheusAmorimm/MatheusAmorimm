@@ -49,6 +49,14 @@ I'm Matheus, from São Paulo, Brazil.
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
+<a href="https://github.com/MatheusAmorimm/seneb">
+<img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/seneb" alt="seneb" /><br />
+<b>seneb</b>
+</a><br />
+<sub>No description yet.</sub><br />
+<sub><code>Markdown</code></sub>
+</td>
+<td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/Analise_Avicultura">
 <img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/Analise_Avicultura" alt="Analise_Avicultura" /><br />
 <b>Analise_Avicultura</b>
@@ -56,6 +64,8 @@ I'm Matheus, from São Paulo, Brazil.
 <sub>Predicting feed conversion ratio in broiler poultry with KNN and Gradient Descent, using real farm production data.</sub><br />
 <sub><code>Jupyter Notebook</code></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/hominun_rpg">
 <img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/hominun_rpg" alt="hominun_rpg" /><br />
@@ -64,8 +74,6 @@ I'm Matheus, from São Paulo, Brazil.
 <sub>Game for practice Pyhton and OOP</sub><br />
 <sub><code>Python</code></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/MPFinance">
 <img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/MPFinance" alt="MPFinance" /><br />
@@ -74,6 +82,8 @@ I'm Matheus, from São Paulo, Brazil.
 <sub>A web application designed to help users aged 16–24 manage their monthly expenses in a simple and intuitive way.</sub><br />
 <sub><code>C#</code></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/DNS_Manager">
 <img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/DNS_Manager" alt="DNS_Manager" /><br />
@@ -82,8 +92,6 @@ I'm Matheus, from São Paulo, Brazil.
 <sub>A Python command-line utility for fast management of DNS servers and IPv4/IPv6 network settings on Windows.</sub><br />
 <sub><code>Python</code></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/olympic-medals-case-study">
 <img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/olympic-medals-case-study" alt="olympic-medals-case-study" /><br />
@@ -91,14 +99,6 @@ I'm Matheus, from São Paulo, Brazil.
 </a><br />
 <sub>A case study project developed for a storytelling class, exploring Olympic medal data through data analysis and visualization.</sub><br />
 <sub><code>Jupyter Notebook</code></sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/MatheusAmorimm/WebScraping_Exercise">
-<img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/WebScraping_Exercise" alt="WebScraping_Exercise" /><br />
-<b>WebScraping_Exercise</b>
-</a><br />
-<sub>Solution for a web scraping challenge, created for practice and learning purposes.</sub><br />
-<sub><code>Python</code></sub>
 </td>
 </tr>
 </table>
