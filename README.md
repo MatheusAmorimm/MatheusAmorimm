@@ -49,12 +49,30 @@ I'm Matheus, from São Paulo, Brazil.
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
+<a href="https://github.com/MatheusAmorimm/portfolio">
+<img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/portfolio" alt="portfolio" /><br />
+<b>portfolio</b>
+</a><br />
+<sub>Personal portfolio — data science and engineering projects. Built with Next.js, TypeScript and Tailwind.</sub><br />
+<sub><code>TypeScript</code></sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/MatheusAmorimm/DNS_Manager">
+<img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/DNS_Manager" alt="DNS_Manager" /><br />
+<b>DNS_Manager</b>
+</a><br />
+<sub>A Python command-line utility for fast management of DNS servers and IPv4/IPv6 network settings on Windows.</sub><br />
+<sub><code>Python</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/seneb">
 <img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/seneb" alt="seneb" /><br />
 <b>seneb</b>
 </a><br />
 <sub>No description yet.</sub><br />
-<sub><code>Markdown</code></sub>
+<sub><code>TypeScript</code></sub>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/Analise_Avicultura">
@@ -81,24 +99,6 @@ I'm Matheus, from São Paulo, Brazil.
 </a><br />
 <sub>A web application designed to help users aged 16–24 manage their monthly expenses in a simple and intuitive way.</sub><br />
 <sub><code>C#</code></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/MatheusAmorimm/DNS_Manager">
-<img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/DNS_Manager" alt="DNS_Manager" /><br />
-<b>DNS_Manager</b>
-</a><br />
-<sub>A Python command-line utility for fast management of DNS servers and IPv4/IPv6 network settings on Windows.</sub><br />
-<sub><code>Python</code></sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/MatheusAmorimm/olympic-medals-case-study">
-<img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/olympic-medals-case-study" alt="olympic-medals-case-study" /><br />
-<b>olympic-medals-case-study</b>
-</a><br />
-<sub>A case study project developed for a storytelling class, exploring Olympic medal data through data analysis and visualization.</sub><br />
-<sub><code>Jupyter Notebook</code></sub>
 </td>
 </tr>
 </table>
