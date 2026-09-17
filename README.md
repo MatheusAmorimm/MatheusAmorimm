@@ -49,6 +49,14 @@ I'm Matheus, from São Paulo, Brazil.
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
+<a href="https://github.com/MatheusAmorimm/seneb">
+<img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/seneb" alt="seneb" /><br />
+<b>seneb</b>
+</a><br />
+<sub>No description yet.</sub><br />
+<sub><code>TypeScript</code></sub>
+</td>
+<td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/portfolio">
 <img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/portfolio" alt="portfolio" /><br />
 <b>portfolio</b>
@@ -56,6 +64,8 @@ I'm Matheus, from São Paulo, Brazil.
 <sub>Personal portfolio — data science and engineering projects. Built with Next.js, TypeScript and Tailwind.</sub><br />
 <sub><code>TypeScript</code></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/DNS_Manager">
 <img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/DNS_Manager" alt="DNS_Manager" /><br />
@@ -64,22 +74,12 @@ I'm Matheus, from São Paulo, Brazil.
 <sub>A Python command-line utility for fast management of DNS servers and IPv4/IPv6 network settings on Windows.</sub><br />
 <sub><code>Python</code></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/rpg-kotb">
 <img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/rpg-kotb" alt="rpg-kotb" /><br />
 <b>rpg-kotb</b>
 </a><br />
 <sub>rpg for my friends</sub><br />
-<sub><code>TypeScript</code></sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/MatheusAmorimm/seneb">
-<img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/seneb" alt="seneb" /><br />
-<b>seneb</b>
-</a><br />
-<sub>No description yet.</sub><br />
 <sub><code>TypeScript</code></sub>
 </td>
 </tr>
