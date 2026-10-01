@@ -49,6 +49,14 @@ I'm Matheus, from São Paulo, Brazil.
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
+<a href="https://github.com/MatheusAmorimm/Projeto_Americanas_CDIA">
+<img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/Projeto_Americanas_CDIA" alt="Projeto_Americanas_CDIA" /><br />
+<b>Projeto_Americanas_CDIA</b>
+</a><br />
+<sub>No description yet.</sub><br />
+<sub><code>Jupyter Notebook</code></sub>
+</td>
+<td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/seneb">
 <img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/seneb" alt="seneb" /><br />
 <b>seneb</b>
@@ -56,6 +64,8 @@ I'm Matheus, from São Paulo, Brazil.
 <sub>No description yet.</sub><br />
 <sub><code>TypeScript</code></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/portfolio">
 <img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/portfolio" alt="portfolio" /><br />
@@ -64,8 +74,6 @@ I'm Matheus, from São Paulo, Brazil.
 <sub>Personal portfolio — data science and engineering projects. Built with Next.js, TypeScript and Tailwind.</sub><br />
 <sub><code>TypeScript</code></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/DNS_Manager">
 <img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/DNS_Manager" alt="DNS_Manager" /><br />
@@ -74,6 +82,8 @@ I'm Matheus, from São Paulo, Brazil.
 <sub>A Python command-line utility for fast management of DNS servers and IPv4/IPv6 network settings on Windows.</sub><br />
 <sub><code>Python</code></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/rpg-kotb">
 <img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/rpg-kotb" alt="rpg-kotb" /><br />
@@ -82,8 +92,6 @@ I'm Matheus, from São Paulo, Brazil.
 <sub>rpg for my friends</sub><br />
 <sub><code>TypeScript</code></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/Analise_Avicultura">
 <img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/Analise_Avicultura" alt="Analise_Avicultura" /><br />
@@ -91,14 +99,6 @@ I'm Matheus, from São Paulo, Brazil.
 </a><br />
 <sub>Predicting feed conversion ratio in broiler poultry with KNN and Gradient Descent, using real farm production data.</sub><br />
 <sub><code>Jupyter Notebook</code></sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/MatheusAmorimm/hominun_rpg">
-<img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/hominun_rpg" alt="hominun_rpg" /><br />
-<b>hominun_rpg</b>
-</a><br />
-<sub>Game for practice Pyhton and OOP</sub><br />
-<sub><code>Python</code></sub>
 </td>
 </tr>
 </table>
