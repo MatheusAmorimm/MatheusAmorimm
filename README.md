@@ -49,6 +49,14 @@ I'm Matheus, from São Paulo, Brazil.
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
+<a href="https://github.com/MatheusAmorimm/seneb">
+<img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/seneb" alt="seneb" /><br />
+<b>seneb</b>
+</a><br />
+<sub>No description yet.</sub><br />
+<sub><code>TypeScript</code></sub>
+</td>
+<td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/Meninas-que-Transformam">
 <img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/Meninas-que-Transformam" alt="Meninas-que-Transformam" /><br />
 <b>Meninas-que-Transformam</b>
@@ -56,6 +64,8 @@ I'm Matheus, from São Paulo, Brazil.
 <sub>Projeto de Extensão da PUCSP e Instituto Pedro Henrique de Direitos Humanos, com foco no auxílio da inserção de mulheres no mercado de trabalho de T.I</sub><br />
 <sub><code>TypeScript</code></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/Projeto_Americanas_CDIA">
 <img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/Projeto_Americanas_CDIA" alt="Projeto_Americanas_CDIA" /><br />
@@ -63,16 +73,6 @@ I'm Matheus, from São Paulo, Brazil.
 </a><br />
 <sub>No description yet.</sub><br />
 <sub><code>Jupyter Notebook</code></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/MatheusAmorimm/seneb">
-<img width="100%" src="https://opengraph.githubassets.com/1/MatheusAmorimm/seneb" alt="seneb" /><br />
-<b>seneb</b>
-</a><br />
-<sub>No description yet.</sub><br />
-<sub><code>TypeScript</code></sub>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/MatheusAmorimm/portfolio">
